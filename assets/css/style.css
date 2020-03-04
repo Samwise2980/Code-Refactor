@@ -4,7 +4,6 @@
     margin: 0;
 }
 
-
 body {
     background-color: #d9dcd6;
 }
@@ -21,11 +20,11 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 
-header article {
+header nav  {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +32,11 @@ header article {
     font-size: 20px;
 }
 
-header article ul {
+header nav ul {
     list-style-type: none;
 }
 
-header article ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
